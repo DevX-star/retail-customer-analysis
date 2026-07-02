@@ -54,4 +54,4 @@ jupyter notebook retail_analysis.ipynb
 
 ## 作者 | Author
 
-[你的名字 / Your Name] — [LinkedIn / 邮箱，可选]
+Yibo.Gap — elliot.gao02@Gmail.com
